@@ -7,43 +7,50 @@ The goal is to support:
 - Community knowledge sharing  
 - Hands-on labs and demos used in real events  
 - Security practitioners looking for practical, real-world content  
-
----
-
-## 🎯 Scope
-
-This repo covers content related to:
-
-- Cloud Security (AWS, Azure, GCP)
-- DevSecOps & Security Automation
-- Ransomware & Threat Landscape
-- Identity & IAM Security
-- Infrastructure as Code (IaC) Security
-- Incident Response & Purple Teaming
-
----
-
-## 🧭 What You’ll Find Here
-
-- 📂 **Conference materials** (slides, notes, references)
-- 🧪 **Hands-on labs** used in talks and workshops
-- 🗺️ **Attack paths & threat models** discussed in sessions
-- 🛡️ **Defensive patterns and guardrails**
-- 🔗 **References and sources** from real incidents and research
-
 ---
 
 ## 🎤 Security Events & Conferences
 
-This repository is used across events such as:
+This repository is actively used and updated throughout the year across **security conferences, meetups, and academic events**, including:
 
-- BSides (various locations)
-- DevSecOps Days
-- Cloud Native meetups
-- Community security events
-- University and MBA lectures
-- Industry workshops and webinars
+### 📅 Events Timeline (Throughout the Year)
 
-(Event-specific folders may be added over time.)
+**Q1 (January – March)**
+- Security meetups and community events
+- Cloud & DevSecOps webinars
+- University and MBA lectures (DevSecOps, Cloud Security, IaC Security)
+
+**Q2 (April – June)**
+- BSides conferences (various locations)
+- DevOps Days
+- Cloud Native and Kubernetes meetups
+- Industry workshops and hands-on security labs
+
+**Q3 (July – September)**
+- Regional and international security conferences
+- Community-driven security events
+- Advanced workshops on cloud security, IAM, and ransomware
+- Guest lectures and academic talks
+
+**Q4 (October – December)**
+- BSides editions and end-of-year security events
+- Industry conferences and tech summits
+- Security-focused webinars and panels
+- Wrap-up sessions, case studies, and real-world incident reviews
 
 ---
+
+### 🌍 Event Types Covered
+
+- **BSides** (multiple cities and regions)
+- **DevSecOps Days**
+- **Cloud Native & Kubernetes meetups**
+- **Community security events**
+- **University and MBA lectures**
+- **Industry workshops and technical webinars**
+
+(Event-specific folders, materials, and labs are added over time as talks and sessions happen.)
+
+---
+
+This structure allows the repository to evolve organically, reflecting **real-world security discussions and practices across the entire year**.
