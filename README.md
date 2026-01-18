@@ -1,5 +1,4 @@
 # Security Conferences & Real-World Events — 2026
-
 This repository centralizes **security conferences, meetups, and real-world events happening this year**, with a focus on **Cloud Security, DevSecOps, Ransomware, Identity, and Automation**.
 
 The goal is to support:
@@ -10,7 +9,6 @@ The goal is to support:
 ---
 
 ## 🎤 Security Events & Conferences
-
 This repository is actively used and updated throughout the year across **security conferences, meetups, and academic events**, including:
 
 ### 📅 Events Timeline (Throughout the Year)
@@ -35,7 +33,6 @@ This repository is actively used and updated throughout the year across **securi
 - Wrap-up sessions, case studies, and real-world incident reviews
 
 ---
-
 ### 🌍 Event Types Covered
 
 - **BSides** (multiple cities and regions)
@@ -45,8 +42,31 @@ This repository is actively used and updated throughout the year across **securi
 - **University and MBA lectures**
 - **Industry workshops and technical webinars**
 
-(Event-specific folders, materials, and labs are added over time as talks and sessions happen.)
-
 ---
+## 🤝 Contributing
+This repository is **open for community contributions** and collaboration.
+
+You are welcome to contribute if you:
+- Presented or plan to present at security conferences or meetups
+- Are submitting or preparing CFPs
+- Want to share hands-on labs, slides, demos, or references
+- Teach security, cloud, or DevSecOps in universities or training programs
+- Want to document real-world security scenarios and lessons learned
+
+### 🛠️ How to Contribute
+
+- Fork the repository
+- Add your content under the appropriate folder (e.g. `talks/`, `labs/`, `references/`)
+- Include a short README describing the event, topic, and year
+- Open a Pull Request with a brief description of your contribution
+
+### 📌 Contribution Guidelines
+
+- Keep content **educational and ethical**
+- Do not include sensitive data or exploit details
+- Focus on **defensive security, posture improvement, and awareness**
+- Credit sources and references when applicable
+
+Community contributions help keep this repository **relevant, practical, and up to date** across the security conference landscape.
 
 This structure allows the repository to evolve organically, reflecting **real-world security discussions and practices across the entire year**.
