@@ -16,16 +16,12 @@ This repository is actively used and updated throughout the year across **securi
 ### 📅 Events Timeline (Throughout the Year)
 
 **Q1 (January – March)**
-- Security meetups and community events
-- Cloud & DevSecOps webinars
-- University and MBA lectures (DevSecOps, Cloud Security, IaC Security)
+- Feb 10-20, 2026: Attending at [HashiTalks 2026](https://hashitalks2026.splashthat.com/) – (Virtual)
 
 **Q2 (April – June)**
 - BSides conferences (various locations)
-- DevOps Days
-- Cloud Native and Kubernetes meetups
-- Industry workshops and hands-on security labs
-
+- Apr 08, 2026: Attending at Paloalto Ignite on Tour 2026 – (São Paulo, SP)
+  
 **Q3 (July – September)**
 - Regional and international security conferences
 - Community-driven security events
