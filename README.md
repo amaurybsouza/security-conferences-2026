@@ -14,7 +14,7 @@ This repository is actively used and updated throughout the year across **securi
 ### 📅 Events Timeline (Throughout the Year)
 
 **Q1 (January – March)**
-- Feb 10-20, 2026: Attending at [HashiTalks 2026](https://hashitalks2026.splashthat.com/) – (Virtual)
+- Feb 19-20, 2026: Attending at [HashiTalks 2026](https://hashitalks2026.splashthat.com/) – (Virtual)
 
 **Q2 (April – June)**
 - BSides conferences (various locations)
