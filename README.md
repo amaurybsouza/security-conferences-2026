@@ -1,72 +1,54 @@
-# Security Conferences & Real-World Events — 2026
-This repository centralizes **security conferences, meetups, and real-world events happening this year**, with a focus on **Cloud Security, DevSecOps, Ransomware, Identity, and Automation**.
+# Security Events & Conferences — 2026
+This repository tracks the security conferences, community events, and technical talks I plan to attend, submit to, and speak at throughout 2026.
 
-The goal is to support: teste
-- Conference talks and CFP submissions  
-- Community knowledge sharing  
-- Hands-on labs and demos used in real events  
-- Security practitioners looking for practical, real-world content  
----
-
-## 🎤 Security Events & Conferences
-This repository is actively used and updated throughout the year across **security conferences, meetups, and academic events**, including:
-
-### 📅 Events Timeline (Throughout the Year)
-
-**Q1 (January – March)**
-- Feb 19-20, 2026: Attending at [HashiTalks 2026](https://hashitalks2026.splashthat.com/) – (Virtual)
-
-**Q2 (April – June)**
-- BSides conferences (various locations)
-- Apr 08, 2026: Attending at Paloalto Ignite on Tour 2026 – (São Paulo, SP)
-  
-**Q3 (July – September)**
-- Regional and international security conferences
-- Community-driven security events
-- Advanced workshops on cloud security, IAM, and ransomware
-- Guest lectures and academic talks
-
-**Q4 (October – December)**
-- BSides editions and end-of-year security events
-- Industry conferences and tech summits
-- Security-focused webinars and panels
-- Wrap-up sessions, case studies, and real-world incident reviews
+It serves as a public and organized reference for:
+- Events I am attending
+- Call for Papers (CfP) submissions
+- Accepted talks and speaking engagements
+- Talk ideas and abstracts
+- Speaker materials and references
 
 ---
-### 🌍 Event Types Covered
 
-- **BSides** (multiple cities and regions)
-- **DevSecOps Days**
-- **Cloud Native & Kubernetes meetups**
-- **Community security events**
-- **University and MBA lectures**
-- **Industry workshops and technical webinars**
+## 📅 Scope
+This repository may include events such as:
+- Security BSides (multiple locations)
+- HashiTalks
+- DevOps Days (multiple locations)
+- SREDays (multiple locations)
+- DevSecOps and Cloud Security conferences
+- Community meetups
+- University and MBA lectures
+- Industry workshops and webinars
+
+Event-specific folders and files are added as the year progresses.
 
 ---
-## 🤝 Contributing
-This repository is **open for community contributions** and collaboration.
 
-You are welcome to contribute if you:
-- Presented or plan to present at security conferences or meetups
-- Are submitting or preparing CFPs
-- Want to share hands-on labs, slides, demos, or references
-- Teach security, cloud, or DevSecOps in universities or training programs
-- Want to document real-world security scenarios and lessons learned
+## 📌 Status Legend
+Each event is tracked using a clear status:
 
-### 🛠️ How to Contribute
+- 📍 **Attending** — Participating in the event
+- 📨 **CfP submitted** — Talk submitted, awaiting review
+- 🎤 **Speaker** — Talk accepted / speaking at the event
+- ❌ **Not selected** — Submission not accepted
 
-- Fork the repository
-- Add your content under the appropriate folder (e.g. `talks/`, `labs/`, `references/`)
-- Include a short README describing the event, topic, and year
-- Open a Pull Request with a brief description of your contribution
+---
 
-### 📌 Contribution Guidelines
+## 🗂 Repository Structure
 
-- Keep content **educational and ethical**
-- Do not include sensitive data or exploit details
-- Focus on **defensive security, posture improvement, and awareness**
-- Credit sources and references when applicable
-
-Community contributions help keep this repository **relevant, practical, and up to date** across the security conference landscape.
-
-This structure allows the repository to evolve organically, reflecting **real-world security discussions and practices across the entire year**.
+```text
+security-events-2026/
+├── README.md
+├── events/
+│   ├── bsides/
+│   │   └── bsides-rio-2026.md
+│   ├── hashitalks/
+│   │   └── hashitalks-2026.md
+├── talks/
+│   ├── cloud-pwned-lockbit.md
+│   ├── terraform-ai-devsecops.md
+└── speaker-kit/
+    ├── bio.md
+    ├── photo.jpg
+    └── links.md
