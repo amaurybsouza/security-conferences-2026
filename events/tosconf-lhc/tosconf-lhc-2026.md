@@ -1,6 +1,6 @@
-# HashiTalks 2026
+# Tosconf LHC 2026
 
 ## 📌 Event Info
-- 📍 **Location:** Virtual
+- 📍 **Location:** Campinas, SP
 - 🗓️ **Year:** 2026
 - 📨 **Status:** CfP submitted
