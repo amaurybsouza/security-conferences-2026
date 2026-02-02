@@ -3,4 +3,4 @@
 ## 📌 Event Info
 - 📍 **Location:** Rio de Janeiro, BR
 - 🗓️ **Year:** 2026
-- 📨 **Status:** CfP submitted
+- 📨 **Status:** ❌ Not selected
