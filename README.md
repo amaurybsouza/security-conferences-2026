@@ -1,7 +1,7 @@
 # Security Conferences & Real-World Events — 2026
 This repository centralizes **security conferences, meetups, and real-world events happening this year**, with a focus on **Cloud Security, DevSecOps, Ransomware, Identity, and Automation**.
 
-The goal is to support:
+The goal is to support: teste
 - Conference talks and CFP submissions  
 - Community knowledge sharing  
 - Hands-on labs and demos used in real events  
